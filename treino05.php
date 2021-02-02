@@ -1,4 +1,4 @@
-<?php//Todos os dados são fictícios.
+<?php
 $info = array();
 $endereco = array();
 array_push($info,array(
@@ -38,5 +38,5 @@ array_push($info,array(
 	"Cidade" => "Três Corações",
 	"Telefone" => 31999325412
 ));
-print_r($endereco);
+print_r($info);
 ?>
